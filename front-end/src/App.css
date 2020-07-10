@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #34cb79;
+    --text-color: #06020e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #F0F0F5;
+    -webkit-font-smoothing: antialised;
+    color: var(--text-color);
+}
+
+li{
+    list-style-type: none;
+  }
